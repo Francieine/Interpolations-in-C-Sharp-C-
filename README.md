@@ -1,2 +1,2 @@
-# Interpolations-in-C-Sharp-C-
+# Interpolations-in-C-Sharp
 This is a simple exemple using interpolation.
